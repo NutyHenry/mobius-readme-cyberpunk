@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=M%C3%96BIUS&fontSize=80&fontAlignY=38&fontColor=ffffff&stroke=000000&strokeWidth=2&animation=twinkling" alt="MÖBIUS Banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,16,18,20&height=210&section=header&text=M%C3%96BIUS&fontSize=82&fontAlignY=38&fontColor=ffffff&stroke=000000&strokeWidth=2&animation=twinkling" alt="MÖBIUS Banner" />
 
-# ⫷⫸ MÖBIUS · AGENTICOS ⫷⫸
+# ⫷⫸ MÖBIUS · AGENTIC OS ⫷⫸
 
 ```diff
-@@ 不是聊天框，是一台能自己改自己的工作台 @@
+@@ 不是聊天框，是一台会自迭代、自生长的智能体操作系统 @@
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&random=false&width=720&lines=%E2%97%87+Mobius+uses+Mobius+to+develop+Mobius;%E2%97%87+One+idea+%E2%86%92+swarm+of+agents+working+in+parallel;%E2%97%87+See+every+project%2C+every+member+on+one+screen;%E2%97%87+Bring+any+Anthropic%2FOpenAI-compatible+model;%E2%97%87+Blackboard-style+research+with+chief+%2B+assistants" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&random=false&width=820&lines=%E2%97%87+Self-iterating+AgenticOS;%E2%97%87+One+idea+%E2%86%92+multi-agent+work+surface;%E2%97%87+Human+team+%2B+AI+war+room;%E2%97%87+Deep+research+with+GPU+fleet;%E2%97%87+Any+model%2C+one+workflow" alt="Typing SVG" />
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%94%A5_AgenticOS-Mobius-8B5CF6?style=for-the-badge&labelColor=1a1a2e" alt="AgenticOS" />
-  <img src="https://img.shields.io/badge/%E2%99%BE_Self--Iterating-Loop-06B6D4?style=for-the-badge&labelColor=1a1a2e" alt="Self-Iterating" />
-  <img src="https://img.shields.io/badge/%F0%9F%A7%A0_Cluster_Thinking-Blackboard-EC4899?style=for-the-badge&labelColor=1a1a2e" alt="Cluster" />
-  <img src="https://img.shields.io/badge/%F0%9F%8E%AF_Any_Model-Compatible-F59E0B?style=for-the-badge&labelColor=1a1a2e" alt="Any Model" />
+  <img src="https://img.shields.io/badge/%E2%99%BE_Self--Growing-Mobius-8B5CF6?style=for-the-badge&labelColor=0d1117" alt="Self Growing" />
+  <img src="https://img.shields.io/badge/%F0%9F%A7%A0_Cluster_Thinking-Work_Surface-06B6D4?style=for-the-badge&labelColor=0d1117" alt="Cluster Thinking" />
+  <img src="https://img.shields.io/badge/%F0%9F%91%A5_Team_Collab-Max-EC4899?style=for-the-badge&labelColor=0d1117" alt="Team Collab" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%AC_Deep_Research-GPU_Fleet-F59E0B?style=for-the-badge&labelColor=0d1117" alt="Deep Research" />
   <br/>
   <a href="https://mobius.nutshellai.cn/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Website-mobius.nutshellai.cn-00FF9F?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Website" /></a>
-  <a href="./LICENSE"><img src="https://img.shields.io/badge/%F0%9F%93%9C_License-Source_Available-FF6B9D?style=for-the-badge&logo=book&logoColor=white&labelColor=0d1117" alt="License" /></a>
-  <img src="https://img.shields.io/badge/%F0%9F%92%9C_Status-Beta-9D4EDD?style=for-the-badge&labelColor=0d1117" alt="Status" />
+  <a href="https://github.com/nutshellai-tech/mobius"><img src="https://img.shields.io/badge/%E2%AD%90_Open_Source-nutshellai--tech%2Fmobius-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Open Source" /></a>
+  <a href="./docs/index.html"><img src="https://img.shields.io/badge/%F0%9F%8E%9B%EF%B8%8F_Static_Homepage-docs%2Findex.html-22D3EE?style=for-the-badge&labelColor=0d1117" alt="Static Homepage" /></a>
 </p>
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║  🌀  Mobius · 一个用 Issue / Session 流程管理自己代码的 Agent 工作台   ║
+║  Mobius · 把想法展开成智能体工作面，把团队组织进 AI 作战室。          ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -31,211 +31,188 @@
 
 ---
 
-## 🗺️ 这份 README 的导览
+## 🗺️ 导览
 
-> 📍 **[Mobius 是什么](#-mobius-是什么)** · **[8 个能力](#-8-个能力)** · **[工作模型](#-工作模型)** · **[小莫助理](#-小莫助理)** · **[快速开始](#-快速开始)** · **[许可证](#-许可证)**
+> **[首页预览](#-首页预览)** · **[Mobius 是什么](#-mobius-是什么)** · **[七大亮点](#-七大亮点)** · **[工作模型](#-工作模型)** · **[快速开始](#-快速开始)** · **[许可证](#-许可证)**
+
+---
+
+## 🎛️ 首页预览
+
+这个仓库现在包含两层宣传材料：
+
+| 位置 | 作用 |
+|---|---|
+| [`README.md`](./README.md) | GitHub 仓库首页，保留 cyberpunk 风格，适合开源仓库首屏传播 |
+| [`docs/index.html`](./docs/index.html) | 静态宣传首页，迁移自 Mobius publication 页面，保留原首页配色、比例、3D 背景、滚动动效和七大亮点结构 |
+
+本地预览静态首页：
+
+```bash
+python3 -m http.server 41731 -d docs
+```
+
+然后打开：
+
+```text
+http://127.0.0.1:41731/
+```
+
+> 如果这个仓库开启 GitHub Pages，可以直接把发布目录设为 `docs/`。
 
 ---
 
 ## 🌀 Mobius 是什么
 
-一句话：把"项目 → 任务 → Agent 执行"整条流水线放进一个 Web 工作台，让 Agent 真的进到你代码目录里干活，而不是只在对话框里说话。
+一句话：**Mobius 是一个自迭代、自生长的 AgenticOS。**
 
-普通 Agent 的产出停留在聊天框外；Mobius 会把每次执行的产出（代码、记忆、技能、扩展、研究结果）回灌成系统能力，让下一轮更聪明。Mobius 自己也是这么变好的 —— 团队用 Mobius 开发 Mobius。
+它不是一个更聪明的聊天框，也不是只跑一轮的 Agent Loop。Mobius 把项目、任务、上下文、Agent 执行、团队协作、研究过程和系统扩展放进同一条生产链路里，让每一次执行都能沉淀成下一次变强的材料。
 
+```text
+普通 AI 助手：
+输入 → 模型 → 输出 → 结束
+
+Mobius：
+想法 → 拆解 → 多智能体并行 → 验证 → 交付 → 沉淀 ↻ 系统继续生长
 ```
-┌─────────────────────────────────────────────────────────┐
-│  旧循环：感知 → 规划 → 执行 → 反思 → 任务结束 → 回原点  │
-│  新循环：感知 → 规划 → 执行 → 反思 → 沉淀 ↻ 升一层      │
-└─────────────────────────────────────────────────────────┘
-```
 
-> 💡 底层是 GLM-5.2（Z.AI 兼容接口），也可以换成任何 Anthropic 兼容的代理端点。一个 Key 就能让 Agent 跑起来。
+Mobius 自己也用 Mobius 开发 Mobius。
+这意味着它不只是在完成任务，也在用任务反过来塑造自己。
 
 ---
 
-## ⚡ 8 个能力
+## ⚡ 七大亮点
 
-> 八项能力都在同一条莫比乌斯环上 —— 不是独立功能列表，是同一条流水线的不同环节。
+> 这不是七个互相分散的功能点，而是一条从“自生长系统”到“团队和科研生产力”的完整逻辑链。
 
-<details>
-<summary><b>🔄 [01] 自迭代：Mobius 用 Mobius 改 Mobius</b></summary>
+<details open>
+<summary><b>01 · 自迭代，自生长</b></summary>
 
-Mobius 自己也是项目。任何 `bind_path` 指向 Mobius 源码目录、被标记为 `is_self_develop` 的项目，都可以通过正常的 Issue / Session 流程修改 Mobius 自己。
+Mobius 的第一亮点是自迭代。
 
-**实际怎么运转：**
+它可以把自己的源码作为项目来管理：用户提出改进点，系统创建 Issue 和 Session，Agent 进入真实代码目录修改、测试、提交，最后把改进带回 Mobius 自身。
 
-1. 你（或小莫）发现一个想改进的点，在自迭代项目里提个 Issue
-2. 创建 Session，挂上 `mobius-self-iter` 技能
-3. Agent 改代码、跑测试、commit
-4. 走 `python3 product.py` 重新部署
-5. 改进落到生产，下一轮 Mobius 就更强一点
-
-自迭代项目还支持**版本回退**（`hard-reset-version`），改坏了能滚回去。
-
-> 三层进化（用户驱动 / 信息驱动 / 认知驱动）是设计目标，目前主要落地的是第一层。第二、第三层在持续打磨。
-
-</details>
-
-<details>
-<summary><b>🧠 [02] 集群思考：一个想法，多 Agent 协同推进</b></summary>
-
-复杂问题单 Agent 跑不动，Mobius 能拉起一支 Agent 编队。每个 Agent 在独立工作站里干自己的子任务，通过 **Blackboard（共享黑板）** 异步交换信息，最后由 Chief 把结果拼起来。
-
-```
-       ┌── Agent[0] ──┐
-idea ─▶├── Agent[1] ──┼──▶ Chief 收敛 ──▶ 最终成果
-       └── Agent[2] ──┘
-              ↑
-        Blackboard 共享黑板
-        （jsonl 文件，每条带作者、时间、可见性）
+```text
+需求 → Issue → Session → Agent 改代码 → 测试 → 部署 → Mobius 变强 ↻
 ```
 
-**Blackboard 实际机制：**
+这里的关键不是“自动写代码”，而是形成闭环：
+每次修复、每次文档补充、每次技能沉淀，都可能成为下一次执行的上下文、Memory、Skill 或扩展能力。
 
-- 落地在项目目录的 `.imac/blackboard/<research_id>/blackboard.jsonl`
-- 每个 Agent 启动时自动 subscribe，3 秒一次扫描新条目
-- Agent 开始/结束动作时都要往黑板上写一条
-- 同时维护一个 `research-graph.yml` 作为可视化研究图谱
-
-适合的场景：技术选型、竞品分析、文献综述 —— 任何需要多视角信息汇合的事。
+> 自迭代不是附属能力，而是 Mobius 的第一性卖点。
 
 </details>
 
-<details>
-<summary><b>👥 [03] 团队协作 MAX：一人成群，协同作战</b></summary>
+<details open>
+<summary><b>02 · 集群思考协作，从点到面</b></summary>
 
-**一人成群**：你一个人，配一支 Agent 编队。它们独立工作区、独立 Session、并行推进，你只在关键节点点头。
+这一点讲的是 **AI 内部的多智能体展开能力**。
 
-**协同作战**：多人 + 多 Agent 一起干，上下文自动接力。
+一个想法进入 Mobius，不再只是一个 Agent 给出一段回答，而是可以展开成一张智能体工作面：不同 Agent 负责不同子任务，不同 Session 承载不同执行链路，黑板和研究图谱把中间信息持续汇合。
 
-- **上下文自动注入**：建 Session 时，项目背景、历史 Issue、Memory、Skill、代码工作区都自动 snapshot 进去
-- **结构化交接**：当前进展可以打包交给下一个人或 Agent
-- **并行隔离**：不同任务在独立工作区跑，互不打架
-- **权限与审计**：管理员能管项目可见性、用户组、读写执行权限，跨用户操作有审计日志
-
-人类团队把脑子花在方向、决策、验收上；重复实现、调试、文档这类活交给 Agent。
-
-</details>
-
-<details>
-<summary><b>👁️ [04] 鸟瞰全局：项目进度和成员表现一屏看清</b></summary>
-
-管理员后台（`/admin`）能看到整张图：
-
-**能看的东西：**
-
-- 📊 **全局 stats**：总用户数、总 Session 数、活跃 Session 数、已完成数、归档数、消息总数
-- 🤖 **Agent 后端状态**：tmux-codex / tmux-claude-code 是否连上
-- 📈 **使用强度**：过去 5 小时的 prompt 数（按 backend 拆分）、最近 2 分钟的活跃 prompt
-- 👥 **每个成员的 task stats**：session 数、活跃数、完成数、归档数、消息总数
-- 🖥️ **所有 tmux session**：哪个用户、哪个项目、跑了多久、状态如何
-
-**自动清理：** `inactive-tmux-cleaner` 会自动收掉 3 小时（完成态 10 分钟）没活动的 tmux session，防止僵尸进程占资源。
-
-> 说白了：谁在跑、跑得勤不勤、卡在哪个 Session，admin 后台都能看见。基于这些原始 stats，"谁是产出王、谁没在动"自然就清楚了 —— 不需要系统主动贴标签。
-
-</details>
-
-<details>
-<summary><b>🎯 [05] 模型自由：协议兼容即可接入</b></summary>
-
-Mobius 的 Agent 后端走两条路：
-
-- **Claude 协议**（`tmux-claude-code`）：通过 `ANTHROPIC_BASE_URL` 可以指向任何 Anthropic 兼容端点
-- **Codex 协议**（`tmux-codex`）：走 OpenAI Codex CLI
-
-**实际能跑的：**
-
-| 用途 | 协议 | 可接入示例 |
-|---|---|---|
-| Agent Session | Anthropic | 官方 Claude / Z.AI 的 GLM-5.2 / OpenRouter / 任何兼容代理 |
-| Agent Session | OpenAI Codex | 官方 Codex |
-| 小莫助理 | OpenAI Chat | GLM-5.2 / DeepSeek / OpenAI / Ollama / vLLM / 任何兼容端点 |
-
-**管理员后台**还可以导入多个 Claude / Codex 渠道（不同 key、不同代理），建 Session 时选。
-
-```bash
-# 切换模型 = 改 .env 里的几个变量
-ANTHROPIC_AUTH_TOKEN=sk-...
-ANTHROPIC_BASE_URL=https://api.z.ai/api/anthropic  # 或官方 Anthropic
-ASSISTANT_API_BASE=https://api.z.ai/api/paas/v4     # 小莫的 OpenAI 兼容端点
-ASSISTANT_MODEL=glm-5.2
+```text
+一个点状需求
+    │
+    ├─ Agent A：调研
+    ├─ Agent B：实现
+    ├─ Agent C：验证
+    ├─ Agent D：文档
+    │
+    └─ Chief / Blackboard：收敛和沉淀
 ```
 
-不绑死任何厂商，哪个便宜、哪个好用就切哪个。
+原来“7×24 不间断、多项目并行”的表达，被收束到这里：
+它不是单独的口号，而是智能体工作面一旦展开后自然具备的持续执行能力。
 
 </details>
 
-<details>
-<summary><b>🔬 [06] 深度科研：Blackboard + 算力节点 + 研究图谱</b></summary>
+<details open>
+<summary><b>03 · 团队协作 max</b></summary>
 
-启用 Research 模式后，项目可以从"单 Agent 跑 Issue"切换成"Agent 编队跑课题"。
+这一点讲的是 **人类团队如何借助 AI 编队协作**。
 
-**核心组件：**
+第二点偏 AI 内部结构，第三点偏人类组织结构。Mobius 要解决的不只是“一个人怎么调 Agent”，还包括团队成员、管理员、项目负责人、AI Session 和代码工作区如何在同一张作战图里协同。
 
-- **Chief Researcher + Research Assistants**：分工跑子课题，异步通过 Blackboard 协作
-- **Research Graph**：自动生成 `research-graph.yml`，可视化每个子课题的状态（in_progress / completed / failed / successful）
-- **aimux 远程算力**：通过 SSH 纳管远程主机，注册节点 → 测试连接 → 探测硬件 → 分发任务。适合需要远端 GPU / 大内存的科研场景
-- **结果落盘**：研究产出（论文、图、笔记）沉淀在项目目录的 `.imac/blackboard/<research_id>/` 下
-
-**典型流程：**
-
-```
-1. 项目启用 Research
-2. 创建 Research，给一个课题描述
-3. 系统拉起 Chief + N 个 Assistants（在各自工作站里跑）
-4. 每一步都写 Blackboard
-5. 研究图谱实时更新
-6. Chief 收敛，输出最终成果
+```text
+一个人使用 Mobius：一人成群
+多人使用 Mobius：人类团队 + Agent 编队协同作战
+管理者使用 Mobius：鸟瞰项目、成员、Session 和交付状态
 ```
 
-适合：技术选型、论文综述、复杂调研、需要远程算力的实验。一句话出文章这件事，目前还做不到，但课题级别的协作调研已经能用。
+Boss 视角也合并在这里：
+谁在高效借助 AI 交付，谁的 Session 卡住了，哪个项目正在推进，哪个成员接近 AI coding 宗师，哪个任务长期没有动静，都应该在同一个项目视角里看清。
+
+> 第三点不是重复第二点。第二点是“智能体之间如何展开”，第三点是“人类团队如何组织这些智能体完成真实项目”。
 
 </details>
 
-<details>
-<summary><b>🧩 [07] 扩展系统：独立前端 + 独立后端，不动主代码</b></summary>
+<details open>
+<summary><b>04 · 深度科研系统</b></summary>
 
-每个扩展都是一个完整的小应用，可以独立开发、独立部署：
+深度科研系统是 Mobius 能力的旗舰场景。
 
-- 🎨 **独立前端**：`mobius/extension/<name>/frontend/`，自己跑自己的 Vite / React
-- ⚙️ **独立后端**：通过 Mobius backend 的 `/ext/<name>/` 统一转发，进程隔离
-- 💾 **独立数据**：`${CORE_DATA_PATH}/extension/<name>/`
-- 🔄 **构建管线**：`extension-build-pipeline` 自动 npm install + build
-- 🗓️ **调度器**：`extension-scheduler` 支持定时任务
+它把多智能体协作、黑板系统、研究图谱、远程算力和结果沉淀放进一条科研链路里：从一个想法出发，拆成多个研究子问题，调动多个 Agent 做文献、实验、复现、证伪、总结，必要时再调度远程 GPU 或异构算力节点。
 
-**仓库里实际带了的扩展（16 个）：**
+```text
+想法 → 文献扫描 → 假设拆解 → 多 Agent 实验
+     → GPU/远程算力协同 → 证实/证伪 → 图表/论文/报告
+```
 
-| 类型 | 扩展 |
-|---|---|
-| 📊 生产力 | `ppt-maker`、`jsoncrack`（JSON 可视化）、`finance-news-wall`（财经新闻墙） |
-| 📚 研究 / 阅读 | `arxiv`（论文阅读）、`security-audit-report` |
-| 🎮 小游戏 | `flappy-bird-3d`、`pacman`、`virtual-pet` |
-| 🌌 3D / 仿真 | `dot-logo-3d`、`threebody-sim`（三体仿真）、`traffic-light-plc` |
-| 🎉 Demo | `birthday-invite`、`chatgpt`、`project-yongle` |
-| 📱 多端 | `momo-mobile` |
-| 🏠 Mobius 自己 | `mobius-home`（官网门户） |
-
-每一个都是真实可跑的应用，能直接拿来做二次开发参考。
+这里的重点不是泛泛地说“多 Agent 科研”，而是：
+Mobius 能把科研里的长链路、多阶段、不确定性和算力需求变成可观察、可交接、可沉淀的系统过程。
 
 </details>
 
-<details>
-<summary><b>💬 [08] 智能小莫：知道你在哪个页面的助理</b></summary>
+<details open>
+<summary><b>05 · 灵活的拓展系统</b></summary>
 
-小莫是全局浮动助理。**不是 Project，不是 Issue** —— 是每个用户的持久化 Agent Session。它走 OpenAI 兼容协议，可以接 GLM-5.2、DeepSeek、OpenAI、Ollama 等任何模型。
+Mobius 不应该被固定成一个单一 SaaS。
 
-**它能干什么：**
+它的扩展系统允许每个特殊能力都长成独立应用：独立前端、独立后端、独立数据目录、独立构建和调度流程。官网、科研工具、PPT 生成器、财经新闻墙、JSON 可视化、小游戏、三体仿真，都可以以扩展形式存在。
 
-- 📍 **读页面状态**：当前路由、当前 Project / Issue / Session、页面上可见的列表，小莫都看得到
-- 🔍 **搜索你的项目和任务**
-- ✅ **创建 Project / Issue / Session**（信息够了就直接建）
-- 🤔 **给候选方案**：含糊请求先给 2-4 个可点击选项，不瞎猜
-- 🛠️ **跑"小莫动作"**：通过 HTTP Endpoint 调后端，建任务、改 Memory、加 Skill 都行
-- 🔄 **改进 Mobius 自己**：你说"我想让 Mobius 怎么怎么样"，小莫会判断是不是要改 Mobius 主体，如果是，会在自迭代项目里提 Issue + 建 Session（小莫自己不写代码，开任务让其他 Agent 干）
+```text
+一句话想法 → 新扩展 → 独立页面 → 独立后端 → 可复用应用
+```
 
-**边界：** 小莫能开 Session，但不会自动启动业务 Agent —— 正式执行还得你点确认。
+这使 Mobius 更像一个能持续孵化产品的操作系统，而不是一组写死的功能按钮。
+
+</details>
+
+<details open>
+<summary><b>06 · 智能小莫</b></summary>
+
+小莫是 Mobius 的自然交互层。
+
+用户不需要理解项目、Issue、Session、Skill、Memory、扩展、模型渠道这些底层结构，很多时候只需要用自然语言说出目标。小莫负责理解当前页面、当前项目、当前任务上下文，并把请求转成可执行动作或可确认选项。
+
+```text
+用户一句话
+  → 小莫理解页面和上下文
+  → 创建任务 / 查找项目 / 配置入口 / 提醒确认
+  → 后台系统执行
+```
+
+后台可以很复杂，前台必须自然。
+这是智能小莫的价值：让 Mobius 的系统能力通过简单入口被调用。
+
+</details>
+
+<details open>
+<summary><b>07 · 任意模型，一键接入</b></summary>
+
+模型不是 Mobius 的边界，工作流才是。
+
+Mobius 可以接 GLM、Claude、GPT、Codex、本地模型、OpenAI 兼容接口、Anthropic 兼容接口，以及未来更多模型渠道。模型可以替换，但项目、上下文、任务、团队协作和交付流程保持在同一套系统里。
+
+```text
+GLM / GPT / Claude / Codex / Local Model / Future Model
+                     │
+                     ▼
+        Mobius 项目、任务、上下文和交付体系
+```
+
+这就是为什么“任意模型接入”放在最后：
+它是底层兼容力，不是主叙事。Mobius 的主叙事是组织生产，而不是绑定某一个模型品牌。
 
 </details>
 
@@ -243,97 +220,70 @@ ASSISTANT_MODEL=glm-5.2
 
 ## 🧱 工作模型
 
+Mobius 的基本生产单元是：
+
+```text
+┌──────────┐    ┌──────────┐    ┌──────────┐
+│ PROJECT  │ ─▶ │  ISSUE   │ ─▶ │ SESSION  │
+│ 项目上下文│    │ 目标和验收│    │ 一次真实 │
+│ 容器     │    │ 标准     │    │ Agent 执行│
+└──────────┘    └──────────┘    └──────────┘
+     ▲                                │
+     │      ┌──────────────┐          │
+     └──────│  沉淀回流     │◀─────────┘
+            └──────────────┘
 ```
-  ┌──────────┐    ┌──────────┐    ┌──────────┐
-  │ PROJECT  │ ─▶ │  ISSUE   │ ─▶ │ SESSION  │
-  │ 上下文   │    │ 目标 &   │    │ 一次真实 │
-  │ 容器     │    │ 验收标准 │    │ Agent 执行│
-  └──────────┘    └──────────┘    └──────────┘
-       ▲                                │
-       │      ┌──────────────┐          │
-       └──────│  沉淀回流     │◀─────────┘
-              └──────────────┘
-```
 
-> ⚠️ **快照保证**：建 Session 时，当前 Issue、项目上下文、Skill、Memory 全部冻结成快照。后面全局配置怎么变，已经创建的 Session 都不受影响。
-
-| **Memory（记忆）** | **Skill（技能）** | **Research（科研）** |
-|:---:|:---:|:---:|
-| 🔑 高频、易变的环境信息 | 🛠️ 稳定、可复用的技艺 | 🔬 多阶段调研 |
-| 启动命令、SSH、密钥位置 | 调试流程、扩展开发规范 | Chief + Assistants |
-
----
-
-## 💬 小莫助理
-
-小莫的具体能力已经在 **[能力 08](#-08-智能小莫知道你在哪个页面的助理)** 里讲过了，这里补充它的工作模式：
-
-- 第一次打开小莫要配模型、Skill、Memory，配完之后所有对话都进同一个持久 Session
-- 前端定时拉小莫的消息和状态
-- 小莫走 OpenAI 兼容协议，**只能开任务、不能自己改业务代码**
-
-<details>
-<summary><b>📍 引导系统（三条 Demo 路线）</b></summary>
-
-引导系统基于 Driver.js + 稳定的 `data-tour` 标记，根据路由和弹窗状态分段运行。
-
-1. 🎂 **生日邀请页 Demo**：首次登录自动触发，带你走完 Project → Issue → Session 的最小闭环
-2. 📥 **导入已有项目 Demo**：用公开 TodoMVC 演示怎么把已有代码塞进 Mobius
-3. 🧠 **Memory / Skill / 远程算力 Demo**：演示项目级上下文配置
-
-> **当前状态**：生日 Demo 接到首次登录流程；另外两条路线代码骨架已经在了（状态模型 + 事件监听），但显式 UI 入口还没接到小莫面板上。
-
-</details>
+| 层级 | 作用 |
+|---|---|
+| Project | 保存项目背景、目录绑定、Memory、Skill、Research 配置 |
+| Issue | 表达一个可验收目标，承载任务需求和讨论 |
+| Session | 一次真实 Agent 执行，有快照、有输出、有状态 |
+| Extension | 可独立运行的小应用，把新能力产品化 |
+| Xiao Mo | 面向用户的自然语言入口，把复杂系统变成一句话交互 |
 
 ---
 
 ## 🚀 快速开始
 
-### 🟢 方式一：容器（推荐）
-
-```bash
-git clone https://github.com/nutshellai-tech/mobius.git && cd mobius
-
-# 阶段 1：构建 base 镜像（只装环境，不含代码）
-docker build -t imac-mobius-base:latest -f deploy/Dockerfile .
-
-# 阶段 2：构建执行镜像（拷贝代码）
-docker build -t imac-mobius-exe:latest .
-
-# 启动
-docker compose up
-```
-
-### 🟡 方式二：本地开发
-
-依赖：`tmux`、Node.js `18+`、Python 3、至少一个 Agent CLI（Codex 或 Claude Code）
+### 容器方式
 
 ```bash
 git clone https://github.com/nutshellai-tech/mobius.git
 cd mobius
-cp .env.example .env  # 填 API Key、JWT_SECRET、本机路径
+docker build -t imac-mobius-base:latest -f deploy/Dockerfile .
+docker build -t imac-mobius-exe:latest .
+docker compose up
 ```
 
-首次启动前初始化管理员（对应 `.env` 里的 `IMAC_BOOTSTRAP_USERS`）：
+### 本地开发
+
+依赖：
+
+```text
+tmux
+Node.js 18+
+Python 3
+至少一个 Agent CLI 或兼容模型渠道
+```
+
+初始化：
 
 ```bash
+git clone https://github.com/nutshellai-tech/mobius.git
 cd mobius
-IMAC_BOOTSTRAP_USERS="admin:your-password:admin:Administrator" \
-  DB_PATH=<data>/mobius.db \
-  WORKSPACE_ROOT=<data>/workspace \
-  node scripts/bootstrap-users.js
+cp .env.example .env
 ```
 
-> 这一步在容器部署时由 `docker-entrypoint.sh` 自动跑；本地开发要手动跑一次。格式：`id:password:role:display_name`，多个用户用 `;` 分隔。
-
-回到根目录启动：
+启动：
 
 ```bash
-cd ..
 python3 start.py --detach
 ```
 
-| 🌐 服务 | URL |
+默认服务：
+
+| 服务 | URL |
 |---|---|
 | Web 前端 | `localhost:45616` |
 | 后端 API | `localhost:45614` |
@@ -342,36 +292,50 @@ python3 start.py --detach
 
 ---
 
-## 📈 路线图
+## 🧭 开源入口
 
-> ℹ️ 截至 2026-06，最近落地的：
+Mobius 主仓库：
 
-- ✅ 小莫升级为持久化用户级 Agent Session（支持配模型、Skill、Memory）
-- ✅ 小莫前端推送页面状态，后端基于状态调工具
-- ✅ 小莫能识别"想改 Mobius 本身"的请求，在自迭代项目里开 Issue + Session
-- ✅ 引导系统从单一生日 Demo 扩展到三条路线（生日 / 导入项目 / 上下文配置）
-- ✅ 引导支持跨路由分段、表单预填、上下文快照说明、Session 完成推进
-- ⚠️ 只有生日 Demo 接到首次登录；另外两条路线还需要补显式 UI 入口
-- 🔜 Research、扩展项目、特殊应用也要在总介绍里覆盖到
+```text
+https://github.com/nutshellai-tech/mobius
+```
+
+官网：
+
+```text
+https://mobius.nutshellai.cn/
+```
+
+本仓库用于开源 README 和 cyberpunk 宣传页试验：
+
+```text
+https://github.com/NutyHenry/mobius-readme-cyberpunk
+```
 
 ---
 
 ## 📜 许可证
 
-> ⚠️ **Mobius 用自定义的 Source-Available 许可证。**
->
-> 源码可用于学习、研究、教育、个人项目、内部评估等非商业用途；**任何商业用途都需要单独授权**。完整条款见 [LICENSE](https://github.com/nutshellai-tech/mobius/blob/main/LICENSE)。
+Mobius 使用自定义 Source-Available 许可证。源码可用于学习、研究、教育、个人项目、内部评估等非商业用途；商业用途需要单独授权。完整条款以主仓库为准：
 
-💼 商业授权联系：`business@nutshellai.cn`
+```text
+https://github.com/nutshellai-tech/mobius/blob/main/LICENSE
+```
+
+商业授权联系：
+
+```text
+business@nutshellai.cn
+```
 
 ---
 
 <div align="center">
 
-```
+```text
 ╔═══════════════════════════════════════════════════════╗
-║  ✧  Mobius 用 Mobius 改 Mobius.                       ║
-║  ✧  你想到的，它能长出来。                             ║
+║  Mobius 用 Mobius 改 Mobius.                         ║
+║  你想到的，它能长出来。                               ║
 ╚═══════════════════════════════════════════════════════╝
 ```
 
