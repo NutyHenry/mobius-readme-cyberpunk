@@ -8,18 +8,17 @@
 
 ```diff
 @@ 不是普通 AI 助手，而是会生长的生产力系统 @@
-@@ 全天候 · 自进化 · 易交互 · 自孵化 @@
+@@ 自迭代 · 集群思考 · 鸟瞰全局 · 任意模型 @@
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=700&lines=%E2%97%87+Perceive+%E2%86%92+Plan+%E2%86%92+Execute+%E2%86%92+Reflect+%E2%86%92+Evolve+%E2%86%BB;%E2%97%87+7%C3%9724+Long-Horizon+%7C+Self-Evolving+%7C+Source-Available;%E2%97%87+GLM-5.2+%C3%97+Mobius+%3D+Open+Opus+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=780&lines=%E2%97%87+Build+Mobius+with+Mobius+%7C+Self-Iterating;%E2%97%87+One+mind+%E2%86%92+swarm+mind+%7C+Cluster+Thinking;%E2%97%87+Bird%27s-eye+view+of+every+project+%7C+every+member;%E2%97%87+Bring+your+own+brain+%7C+Any+model%2C+one+click;%E2%97%87+Hypothesis+%E2%86%92+paper+in+one+prompt+%E2%9A%A1" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%94%A5_AgenticOS-Mobius-8B5CF6?style=for-the-badge&logoColor=white&labelColor=1a1a2e" alt="AgenticOS" />
-  <img src="https://img.shields.io/badge/%E2%99%BE_Long_Horizon-7%C3%9724-06B6D4?style=for-the-badge&logoColor=white&labelColor=1a1a2e" alt="Long Horizon" />
-  <img src="https://img.shields.io/badge/%F0%9F%A7%AC_Self_Evolving-3_Layers-EC4899?style=for-the-badge&logoColor=white&labelColor=1a1a2e" alt="Self-Evolving" />
-  <img src="https://img.shields.io/badge/%E2%9A%A1_GLM--5.2-Open_Opus-F59E0B?style=for-the-badge&logoColor=white&labelColor=1a1a2e" alt="GLM-5.2" />
-</p>
-<p>
+  <img src="https://img.shields.io/badge/%E2%99%BE_Self--Iterating-%E2%88%9E_Loop-06B6D4?style=for-the-badge&logoColor=white&labelColor=1a1a2e" alt="Self-Iterating" />
+  <img src="https://img.shields.io/badge/%F0%9F%A7%A0_Cluster_Thinking-Point%E2%86%92Surface-EC4899?style=for-the-badge&logoColor=white&labelColor=1a1a2e" alt="Cluster Thinking" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AF_Any_Model-One_Click-F59E0B?style=for-the-badge&logoColor=white&labelColor=1a1a2e" alt="Any Model" />
+  <br/>
   <a href="https://mobius.nutshellai.cn/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Website-mobius.nutshellai.cn-00FF9F?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Website" /></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/%F0%9F%93%9C_License-Source_Available-FF6B9D?style=for-the-badge&logo=book&logoColor=white&labelColor=0d1117" alt="License" /></a>
   <img src="https://img.shields.io/badge/%F0%9F%92%9C_Status-Beta-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Status" />
@@ -33,7 +32,7 @@
 
 **🔮 GLM-5.2 × Mobius — Open-Source Opus, One Key Away**
 
-> [GLM-5.2] · Code Arena Global #1 · SWE-Bench Pro 62.1% · 1M Token Real Context — currently the closest open-source coding model to Claude Opus.
+> GLM-5.2 · Code Arena Global #1 · SWE-Bench Pro 62.1% · 1M Token Real Context — currently the closest open-source coding model to Claude Opus.
 >
 > Mobius is the **first** Web workstation to fully drive Agent Sessions via GLM-5.2 through the Z.AI-compatible interface. No Anthropic account needed. One key. Project / Issue / Session closed loop.
 
@@ -43,13 +42,13 @@
 
 ## 🗺️ NAVIGATION
 
-> 📍 **[What's Mobius](#-whats-mobius)** · **[What You Can Do](#-what-you-can-do)** · **[7 Powers](#-7-powers)** · **[Model](#-working-model)** · **[Assistant](#-xiaoMo-assistant)** · **[Quickstart](#-quickstart)** · **[Dev Guide](#-developer-guide)** · **[License](#-license)**
+> 📍 **[What's Mobius](#-whats-mobius)** · **[8 Powers](#-8-powers)** · **[Working Model](#-working-model)** · **[XiaoMo](#-xiaomi-assistant)** · **[Quickstart](#-quickstart)** · **[License](#-license)**
 
 ---
 
 ## 🌀 WHAT'S MOBIUS
 
-Mobius is an enterprise-grade AgenticOS for real project collaboration. Projects, tasks, execution sessions, context, run history—all in one workstation. Agents don't just answer; they enter code and business environments to ship, verify, deliver, iterate.
+Mobius is an enterprise-grade AgenticOS for real project collaboration. Projects, tasks, execution sessions, context, run history — all in one workstation. Agents don't just answer; they enter code and business environments to ship, verify, deliver, iterate.
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -65,109 +64,186 @@ Mobius is an enterprise-grade AgenticOS for real project collaboration. Projects
 
 ---
 
-## 🎯 WHAT YOU CAN DO
+## ⚡ 8 POWERS
 
-### 🚀 Solo Dev / One-Person Company
-One person, multiple parallel tracks. The assistant takes natural-language requests, auto-decomposes into projects and tasks. Multiple Agent Sessions run in isolated workspaces—you only confirm at key milestones. With **aimux** remote compute, agents run on your local hardware—no need to babysit the screen.
+> 🌟 **八项能力构成同一条莫比乌斯闭环 —— 不是孤立的功能列表，而是彼此咬合的进化环节。**
 
-### ⚡ Fast Product Development
-From requirement to runnable product, all in the Web UI. Bundled product examples built using Mobius itself:
+<details>
+<summary><b>🔄 [01] SELF-ITERATING · 自迭代，自生长</b> — <i>Build Mobius with Mobius</i></summary>
 
-| 🎨 Demo | Description |
+Mobius 本身就是一个项目（`imac-self-develop`）。它用同一套 Issue / Session 流程改造自己 —— 提出任务、确认执行、Agent 完成、验收迭代，全程不离开 Web UI。
+
+**三层自进化机制：**
+
+```
+evolve_layers:
+  1. user_driven      // 用户提需求 → 系统组织 → 执行 → 沉淀新版本
+  2. info_driven      // 从 web/docs/history 持续校准方向
+  3. cognitive_driven // 系统主动提出用户尚未想到的改进
+```
+
+每一轮执行沉淀的 Memory、Skill、Extension、研究结论和工作方法，都会沿着莫比乌斯环回流，成为系统本身的一部分。
+
+> 💜 **吃自己的狗粮**：Mobius 团队用 Mobius 开发 Mobius，每一次迭代都被系统记录、可追溯、可回滚。
+
+</details>
+
+<details>
+<summary><b>🧠 [02] CLUSTER THINKING · 集群思考协作，从点到面</b> — <i>One mind → swarm mind</i></summary>
+
+一个想法辐射成多维执行。Mobius 可以组织多 Agent 编队：每个 Agent 在独立工作站和工作区里执行子任务，通过共享黑板异步对齐，最终汇聚为更完整的成果。
+
+```
+        ┌── Agent[0] ──┐
+idea ──▶├── Agent[1] ──┼──▶ converge ──▶ outcome
+        └── Agent[2] ──┘
+              ↑
+        shared blackboard
+```
+
+- 🎯 **拆题**：一个 idea → N 个子任务并行
+- 🔁 **接力**：A 撞墙了，B 接手上下文继续
+- 🌐 **多视角**：从不同角度对同一问题做尽职调查
+- 📡 **广播**：阶段成果自动同步给下一批执行者
+
+从单点突破走向面状覆盖，让复杂问题被一支 Agent 编队协同吃掉。
+
+</details>
+
+<details>
+<summary><b>👥 [03] TEAM MAX · 团队协作 MAX</b> — <i>Solo like an army. Swarm like special ops.</i></summary>
+
+> 🚀 **一人成群**：一个人的多 Agent 编队，比一支团队还忙。
+> 🛡️ **协同作战**：多人 + 多 Agent 协作，上下文无缝接力。
+
+- **上下文自动注入**：项目背景、历史任务、Memory、Skill、代码工作区在 Session 创建时自动 snapshot
+- **结构化交接**：把当前进展打包成 brief，交给下一位成员或 Agent 继续执行
+- **并行隔离**：不同任务在独立工作区推进，零干扰
+- **权限与审计**：集中管理项目可见性、成员、用户组、读写执行权限、跨用户操作记录
+
+人类团队把注意力留给方向、决策、验收；重复性的实现、调试、文档工作交给 Agent 编队。
+
+</details>
+
+<details>
+<summary><b>👁️ [04] BOSS VIEW · 鸟瞰项目进度</b> — <i>Every project, every member, one screen</i></summary>
+
+> 🦅 Boss 模式：所有项目、所有 Issue、所有 Session 一屏掌握。
+
+**透明到无可隐藏：**
+
+- 📊 **全局看板**：多项目、多成员、多 Session 实时进度
+- 🏆 **谁是 AI Coding 宗师**：commit 数、Session 完成数、收益贡献一目了然
+- 😴 **谁在偷懒**：stall detection + whipping mechanism 自动标记长期停滞或疑似摸鱼的 Agent / 成员
+- 📈 **阶段成果可追溯**：每一步都有 git-style 历史记录
+- 🎯 **卡点位置**：精确知道哪个 Session 卡在哪个工具调用上
+
+```
+┌──── PROJECT DASHBOARD ──────────────────────────────┐
+│ alice   🟢 12 sessions   🏆 3 merges   ⚡ active     │
+│ bob     🟡  4 sessions   📦 1 merge    😴 stalled    │
+│ carol   🔵  8 sessions   🏆 5 merges   ⚡ active     │
+│ Agent-A 🟢 24 sessions   🏆 9 merges   ⚡ active     │
+│ Agent-B 🔴  2 sessions   ❌ 0 merge    😴 whipped    │
+└─────────────────────────────────────────────────────┘
+```
+
+Boss 视角下，团队的真实生产力第一次完全透明。
+
+</details>
+
+<details>
+<summary><b>🎯 [05] ANY MODEL · 任意模型，一键接入</b> — <i>Bring your own brain</i></summary>
+
+不绑定任何 vendor，不被涨价绑架，不被版本锁死。
+
+**支持的 Agent 后端：**
+- 🔮 **GLM-5.2** (Z.AI 接口) — 当前最强开源 Coding 模型
+- 🧠 **Claude Code** (Anthropic 接口)
+- ⚡ **Codex** (OpenAI 接口)
+- 🌱 **Ollama / vLLM / LM Studio** — 本地模型也行
+- 🔄 **任何 OpenAI / Anthropic 兼容 API**
+
+```bash
+# 切换模型 = 改一行 .env
+ANTHROPIC_AUTH_TOKEN=sk-...
+ANTHROPIC_BASE_URL=https://...
+ASSISTANT_MODEL=glm-5.2
+```
+
+一个 Key，一键切换。Session 级别固定模型，不会因为某次升级就把已有执行搞崩。
+
+</details>
+
+<details>
+<summary><b>🔬 [06] RESEARCH ENGINE · 深度科研系统</b> — <i>Hypothesis → paper in one prompt</i></summary>
+
+> 🌌 触手无处不可达，指挥千百 GPU 协同科研。
+
+**能力矩阵：**
+
+| 维度 | 实现 |
 |---|---|
-| 📊 **PPT Generator** | Natural-language to presentation |
-| 📰 **Finance News Wall** | Real-time fetch & visualization |
-| 🧩 **JSON Visualizer** | Interactive browsing of complex structures |
-| 🌌 **3D Physics Sim** | Physics engine + frontend rendering |
+| 🔍 **触手** | Web 搜索、论文阅读、代码执行、本地文件、远程算力 |
+| ⚡ **算力** | aimux 算力群体：纳管远程节点、探测硬件、分发任务 |
+| 🧪 **验证** | 千百 GPU 并行验证猜想，朝夕间出结果 |
+| 📄 **证伪/证实** | 把最新论文喂进来，让 Agent 编队尝试复现 / 反驳 |
+| ✍️ **输出** | 一句话转想法为文章（research graph 自动聚合） |
 
-### 🔬 Multi-Agent Research
-Activate Research mode → assemble an agent team: one Chief Researcher plans, multiple assistants run sub-topics in parallel, collaborate asynchronously through a shared blackboard, auto-aggregate into a visual research graph. Ideal for tech selection, competitive analysis, literature review.
+**Research 模式启动后：**
 
----
+```
+chief_researcher ─┬─▶ assistant[0]: parallel retrieval
+                  ├─▶ assistant[1]: evidence aggregation  
+                  ├─▶ assistant[2]: convergence analysis
+                  └─▶ assistant[3]: paper drafting
+                              ↓
+                  visual research graph + final paper
+```
 
-## ⚡ 7 POWERS
-
-<details>
-<summary><b>🔮 [01] ALWAYS ON — 让智能体以周为单位持续推进项目</b></summary>
-
-Long-horizon operation is letting agents truly enter a project and keep working. Mobius carries long tasks through Project, Issue, Session, and run records—no reliance on a single conversation.
-
-- 📅 Multi-project, day-and-night progress.
-- 📊 Message / status / stage result / failure logging.
-- 🛠️ Code edits, tests, results, next iteration—inside the bound workspace.
-- ⚡ Stall detection and "whipping" mechanism for stalled agents.
-- 🧑‍💻 Inspect, supplement, take over, or accept anytime.
+适合：技术选型、竞品分析、论文梳理、决策尽调 —— 任何需要多方信息汇聚的场景。
 
 </details>
 
 <details>
-<summary><b>🧬 [02] SELF-EVOLVING — 完成任务的同时重塑系统</b></summary>
+<summary><b>🧩 [07] EXTENSION SYSTEM · 灵活的拓展系统</b> — <i>Ship a side-app without touching main</i></summary>
 
-Three concrete layers:
+> 🔌 上线一个独立应用，不需要碰主代码。
 
-1. **User-driven** — user requests → system organizes → executes → deposits changes.
-2. **Information-driven** — augment from web, docs, history.
-3. **Cognitive-driven** — propose improvements the user hasn't thought of yet.
+**架构：**
+- 🎨 **独立前端**：`mobius/extension/<name>/frontend/`
+- ⚙️ **独立后端**：通过 `/ext` 统一转发与隔离执行
+- 💾 **独立数据**：`${CORE_DATA_PATH}/extension/<name>/`
+- 🔐 **统一治理**：Mobius 管入口、权限、执行环境
 
-Mobius itself lives as a normal project (`imac-self-develop`). Platform improvements go through the same Issue / Session flow. Code, Memory, Skill, Extension, research findings, and work methods all flow back along the Möbius strip.
+**内置示例：**
 
-</details>
+| 扩展 | 用途 |
+|---|---|
+| 📊 PPT 生成器 | 自然语言生成可演示 PPT |
+| 📰 财经新闻墙 | 实时抓取与可视化 |
+| 🧩 JSON 可视化 | 复杂结构交互式浏览 |
+| 🌌 3D 物理仿真 | 物理引擎 + 前端渲染 |
+| 📄 论文阅读器 | PDF 解析 + Agent 问答 |
+| 🎮 小游戏 | Mobius 自孵化产物 |
 
-<details>
-<summary><b>👥 [03] TEAM WORKFLOW — 让想法进入同一条可交接的生产线</b></summary>
-
-- **Context auto-injection** — project background, history, Memory, Skill, workspace, all snapshotted at Session creation.
-- **Structured handoff** — summarize progress for the next member or agent.
-- **Parallel isolation** — separate workspaces reduce interference.
-- **Permission & audit** — centralize visibility, members, permissions, cross-user ops.
-
-</details>
-
-<details>
-<summary><b>🤖 [04] MULTI-AGENT — 用分工、对齐和接力推进复杂问题</b></summary>
-
-tmux-based Agent runtime hosts Codex / Claude Code. Sessions record messages, status, run markers, results, failures. The "whipping" mechanism catches stalled or slacking agents.
-
-Research scenario: decomposition → parallel retrieval → evidence aggregation → convergence → research graph → final output. The path from question to conclusion is preserved.
-
-Combat-room use cases: relay along a product line; parallel attack on a hard problem; multi-angle decision analysis; broadcast stage results.
+每一个都是真实可用的应用，可作为二次开发起点，也可作为 Extension 开发的参考。
 
 </details>
 
 <details>
-<summary><b>💻 [05] COMPUTE FLEET — 把一群机器组织成一台"大机器"</b></summary>
+<summary><b>💬 [08] XIAOMO · 智能小莫</b> — <i>The assistant that knows what page you're on</i></summary>
 
-Manage remote compute nodes (**aimux**): register hosts, probe hardware, test connectivity.
+> 🌐 小莫是全局浮动助理。不是 Project，不是 Issue —— 是每个用户的持久化 Agent Session。
 
-- 🗄️ Mass data processing & batch regression.
-- 📚 Mass document parsing & indexing.
-- 🎬 Enterprise simulation, rendering, experiments.
-- 🧪 Multi-project / multi-line parallel R&D.
+**它能做什么：**
+- 📍 **理解当前页面状态**：路由、Project、Issue、Session、可见列表
+- 🔍 **搜索用户可见的 Project / Issue**
+- ✅ **创建 Project / Issue / Session**（信息充分时）
+- 🤔 **给候选方案**：含糊请求先给 2-4 个可点击选项，不瞎猜
+- 🔁 **自塑模式**：用户描述想改 Mobius 哪里，小莫自动在自进化项目里开 Issue + Session
 
-Compute becomes a dynamic resource organized around tasks.
-
-</details>
-
-<details>
-<summary><b>💬 [06] HUMAN FRIENDLY — 后台严谨运行，前台自然表达</b></summary>
-
-XiaoMo is Mobius's unified interaction agent. Understands page, Project, Issue, Session. Searches projects, completes requirements, helps create downstream work. For ambiguous requests, proposes candidates first.
-
-As Web, desktop, and mobile converge on the same surface, interaction stays simple while the backend runs on a stable structure.
-
-</details>
-
-<details>
-<summary><b>🌟 [07] PRODUCT INCUBATION — 让一次想法沉淀为可迭代资产</b></summary>
-
-Outputs are real assets:
-
-- 🌐 Pages, tools, automated apps.
-- 📑 Research reports, graphs, decision materials.
-- 🏢 Personal apps, team systems, internal platforms.
-- 🧩 Reusable Skills, Memories, Extensions.
-
-Extensions live in `mobius/extension/<name>/`. Independent frontend, backend proxied via `/ext`, isolated execution. Data in `${CORE_DATA_PATH}/extension/<name>`.
+**边界：** 小莫能创建 Session，但不会自动启动业务 Agent —— 正式执行仍需用户确认。
 
 </details>
 
@@ -181,6 +257,10 @@ Extensions live in `mobius/extension/<name>/`. Independent frontend, backend pro
   │ Context  │    │ Goal &   │    │ Real     │
   │ Container│    │ Accept   │    │ Execution│
   └──────────┘    └──────────┘    └──────────┘
+       ▲                                │
+       │      ┌──────────────┐          │
+       └──────│  evolve()    │◀─────────┘
+              └──────────────┘
 ```
 
 > ⚠️ **Snapshot guarantee**: Creating a Session freezes Issue + project context + Skill + Memory. Subsequent global changes do not drift existing Sessions.
@@ -191,43 +271,11 @@ Extensions live in `mobius/extension/<name>/`. Independent frontend, backend pro
 | Startup cmds, SSH hosts | Debug flows, dev specs | Chief + Assistant roles |
 | API key locations | Image gen techniques | Research graphs |
 
-**Extension** — apps in `mobius/extension/<name>/`. Frontend via project page, backend via `/ext` unified proxy, data in `${CORE_DATA_PATH}/extension/<name>`.
-
----
-
-## 💬 XIAOMO ASSISTANT
-
-> 🌐 Global floating assistant — not a Project or Issue. **One persistent user-level Agent Session per user.**
-
-First-time setup: configure model, Skill, Memory. After that, all XiaoMo conversations enter the same persistent session; the frontend refreshes messages and status periodically.
-
-**Capabilities:**
-- 📍 Reads current route, Project, Issue, Session, and visible page.
-- 🔍 Searches user-visible Projects and Issues.
-- ✅ Creates Project / Issue / Session when info is sufficient.
-- 🤔 Provides 2–4 clickable candidates for ambiguous requests (no blind guesses).
-- 🔁 "Self-shaping" mode: creates improvement Issues inside the self-evolution project.
-
-> 🛑 **Boundary**: XiaoMo can create Sessions but won't auto-start business agents. User confirmation required.
-
-<details>
-<summary><b>📍 Tour System (3 Demo Routes)</b></summary>
-
-Built on **Driver.js** + stable `data-tour` markers. Segmented by route, modal, and demo state.
-
-1. 🎂 **Birthday Invite Demo** — auto-triggers on first login. Project → Issue → Session minimal closed loop.
-2. 📥 **Import Existing Project Demo** — uses public TodoMVC. VSCode Web drag-drop or Git URL + Issue.
-3. 🧠 **Memory / Skill / Compute Demo** — context config, aimux authorization, snapshot verification.
-
-> **Status**: Birthday Demo is wired to first-login. Other two have state models and listeners but no explicit UI entry yet.
-
-</details>
-
 ---
 
 ## 🚀 QUICKSTART
 
-### 🟢 Option A — Container (Recommended)
+### 🟢 Container (Recommended)
 
 ```bash
 # 1. Clone
@@ -243,7 +291,7 @@ docker build -t imac-mobius-exe:latest .
 docker compose up
 ```
 
-### 🟡 Option B — Local Dev
+### 🟡 Local Dev
 
 ```bash
 git clone https://github.com/nutshellai-tech/mobius.git
@@ -276,92 +324,16 @@ python3 start.py --detach
 
 ---
 
-## 🛠️ DEVELOPER GUIDE
+## 📈 ROADMAP
 
-<details>
-<summary><b>⚙️ Configuration</b></summary>
-
-| Variable | Purpose |
-|---|---|
-| `ANTHROPIC_AUTH_TOKEN` | Claude Code driver key |
-| `ANTHROPIC_BASE_URL` | Agent API endpoint |
-| `ASSISTANT_API_KEY` | XiaoMo model key |
-| `ASSISTANT_API_BASE` | XiaoMo endpoint |
-| `ASSISTANT_MODEL` | XiaoMo model |
-| `JWT_SECRET` | JWT signing secret |
-| `APP_DIR` / `DB_PATH` / `WORKSPACE_ROOT` | Local paths |
-
-</details>
-
-<details>
-<summary><b>📂 Project Structure</b></summary>
-
-```
-mobius/
-├── mobius/
-│   ├── backend/         # API, Agent backend
-│   ├── extension/       # Extension apps
-│   ├── frontend/        # React / Vite
-│   ├── scripts/         # Bootstrap & maintenance
-│   ├── tests/           # Backend & agent tests
-│   └── server.js        # Backend entry
-├── deploy/              # Podman / Compose
-├── docs/                # Design, endpoint, path
-└── start.py             # Local dev launcher
-```
-
-</details>
-
-<details>
-<summary><b>🧭 Code Navigation</b></summary>
-
-| Area | Path |
-|---|---|
-| Assistant frontend | `mobius/frontend/src/components/assistant-chat.tsx` |
-| Assistant backend | `mobius/backend/routes/assistant.js` |
-| Tour controller | `mobius/frontend/src/components/tour-controller.tsx` |
-| Driver.js logic | `mobius/frontend/src/services/tour.ts` |
-| Birthday demo | `mobius/frontend/src/services/birthday-demo.ts` |
-| Import demo | `mobius/frontend/src/services/project-import-demo.ts` |
-| Context demo | `mobius/frontend/src/services/context-setup-demo.ts` |
-| Form prefill | `mobius/frontend/src/components/modals.tsx` |
-| Session advance | `mobius/frontend/src/pages/IssuePage.tsx` |
-
-</details>
-
-<details>
-<summary><b>📦 Deployment</b></summary>
-
-First deploy:
-```bash
-git clone -b agent_smart_dev <repo-url> imac
-cd imac && cp .env.default deploy/.env
-cd deploy && podman compose build && podman compose up
-```
-
-Update:
-```bash
-cd imac && git pull && cp .env.default deploy/.env
-cd deploy && podman compose build
-podman compose down && podman compose up
-```
-
-`docker-entrypoint.sh` auto-initializes users from `IMAC_BOOTSTRAP_USERS` on container start.
-
-</details>
-
----
-
-## 📈 ROADMAP (2026-06-08)
-
-> ℹ️ Current README updates reflect the latest implementation:
+> ℹ️ Latest implementation status:
 
 - ✅ XiaoMo upgraded to persistent user-level Agent Session
 - ✅ Frontend pushes page state; backend handles search / create / clarify
 - ✅ XiaoMo supports self-shaping entry
 - ✅ Tour system: three routes with state models + event listeners
 - ✅ Tour supports cross-route segmentation, form prefill, snapshot explanation
-- ⚠️ Only birthday Demo auto-triggers; others need explicit UI entry
+- ⚠️ Only Birthday Demo auto-triggers; others need explicit UI entry
 - 🔜 Research, extensions, special apps to be reflected in overview
 
 ---
@@ -370,7 +342,7 @@ podman compose down && podman compose up
 
 > ⚠️ **Mobius uses a custom Source-Available license.**
 >
-> Source code is available for learning, research, education, personal projects, and internal evaluation. **Commercial use requires separate authorization.** See [LICENSE](LICENSE).
+> Source code is available for learning, research, education, personal projects, and internal evaluation. **Commercial use requires separate authorization.** See [LICENSE](https://github.com/nutshellai-tech/mobius/blob/main/LICENSE).
 
 💼 Commercial licensing: `business@nutshellai.cn`
 
@@ -380,7 +352,7 @@ podman compose down && podman compose up
 
 ```
 ╔═══════════════════════════════════════════════════════╗
-║  ✧  WHAT YOU SEE IS WHAT YOU GET.                      ║
+║  ✧  BUILD MOBIUS WITH MOBIUS.                          ║
 ║  ✧  WHAT YOU IMAGINE CAN GROW.                         ║
 ╚═══════════════════════════════════════════════════════╝
 ```
